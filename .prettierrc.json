@@ -1,0 +1,9 @@
+{
+  "semi": false,
+  "arrowParens": "avoid",
+  "singleQuote": true,
+  "bracketSameLine": false,
+  "endOfLine": "lf",
+  "tabWidth": 2,
+  "trailingComma": "none"
+}
